@@ -55,6 +55,7 @@ The hash table automatically resizes (doubles its capacity) when the load factor
    ```bash
    python chained_hash_table.py
 ## Expected Output
+   ```bash
    Insertion time for 1000 items: 0.0123 seconds
    Table capacity after insertion: 40
    Load factor after insertion: 0.50
